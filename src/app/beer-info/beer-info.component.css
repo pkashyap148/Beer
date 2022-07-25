@@ -1,0 +1,30 @@
+div.text-center{
+    font-family: 'Alata', sans-serif;
+    margin-top: 13%;
+}
+
+#beerName{
+    font-size: 65px;
+    font-weight: bolder;
+    color: #FFA529;
+}
+
+#tag{
+    margin-top: -10px;
+    color: darkgray;
+    font-size: 13.5px;
+}
+
+#date{
+    background-color: #FFA529;
+    color: black;
+}
+#abv{
+    background-color: #FFA529;
+    color: black;
+}
+
+#desc{
+    padding-left: 20px;
+    padding-right: 20px;
+}
